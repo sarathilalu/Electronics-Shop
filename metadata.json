@@ -1,0 +1,7 @@
+{
+  "name": "ElectroPulse - Modern Electronics Hub",
+  "description": "A premium electronics store with a built-in Gemini-powered AI Shopping Advisor for personalized gadget recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
